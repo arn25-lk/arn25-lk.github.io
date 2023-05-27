@@ -1,7 +1,7 @@
 baseURL = "https://arn25-lk.github.io"
 title   = "Arnav Bhargava"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "hello-friend-ng-2"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
