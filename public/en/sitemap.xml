@@ -2,9 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arn25-lk.github.io/about/</loc>
-  </url><url>
     <loc>https://arn25-lk.github.io/</loc>
+    <lastmod>2023-05-26T22:04:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
@@ -15,6 +14,30 @@
                 hreflang="en"
                 href="https://arn25-lk.github.io/"
                 />
+  </url><url>
+    <loc>https://arn25-lk.github.io/posts/2023/05/my-first-post/</loc>
+    <lastmod>2023-05-26T22:04:36+02:00</lastmod>
+  </url><url>
+    <loc>https://arn25-lk.github.io/posts/</loc>
+    <lastmod>2023-05-26T22:04:36+02:00</lastmod>
+  </url><url>
+    <loc>https://arn25-lk.github.io/tags/randomized-algorithms/</loc>
+    <lastmod>2023-05-26T22:04:36+02:00</lastmod>
+  </url><url>
+    <loc>https://arn25-lk.github.io/tags/</loc>
+    <lastmod>2023-05-26T22:04:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://arn25-lk.github.io/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arn25-lk.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://arn25-lk.github.io/about/</loc>
   </url><url>
     <loc>https://arn25-lk.github.io/categories/</loc>
     <xhtml:link
@@ -38,18 +61,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://arn25-lk.github.io/series/"
-                />
-  </url><url>
-    <loc>https://arn25-lk.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://arn25-lk.github.io/sv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arn25-lk.github.io/tags/"
                 />
   </url>
 </urlset>
