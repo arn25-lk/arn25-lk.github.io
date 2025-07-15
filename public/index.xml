@@ -13,8 +13,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arn25-lk.github.io/about/</guid>
-      <description>About Me I&amp;rsquo;m a third-year undergraduate student at the University of Edinburgh. I love to make things and learn all things involving math.
-Research Overview I have broad interests throughout algorithms, distributed systems and programming language theory. Throughout the summer of 2022 I interned with Dr. Philip Wadler, working through Programming Language Foundations in Agda. In my third year I studided at the University of Pennsylvania. I gave a lecture on normalization by evaluation for System T.</description>
+      <description>About Me I just graduated with a First Class Honours from the University of Edinburgh. I love to make things and learn all things involving math.
+Research Overview I am quite interested in the intersection of Complexity Theory, Algorithmic Game Theory, Cryptographic Primitives.
+Selected Courses [PENN]
+Advanced Programming (Haskell) Operating Systems (C) Advanced Topics in Algorithms Advanced Topics in Programming Languages Internet and Web Systems Machine Learning [EDINBURGH]
+Introduction to Modern Cryptography (Public/Private Key, Digital Signatures, ZK Proofs, OWF) Algorithmic Game Theory and Applications (Extensive/Normal form Games, Congestion/Potential Games, Mechanism Design, LP) Machine Learning Theory Algorithmic Foundations of Data Science (Clustering, Streaming, Sketching, Spectral Graph Theory) Commutative Algebra General Topology [Oxford]</description>
     </item>
     
   </channel>

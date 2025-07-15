@@ -5,7 +5,7 @@ I'm a third-year undergraduate student at the University of Edinburgh. I love to
 
 ## Research Overview
 
-I have broad interests throughout algorithms, distributed systems and programming language theory. Throughout the summer of 2022 I interned with Dr. Philip Wadler, working through Programming Language Foundations in Agda. In my third year I studided at the University of Pennsylvania. I gave a lecture on normalization by evaluation for System T.
+I have broad interests throughout algorithms, distributed systems and programming language theory. Throughout the summer of 2022 I interned with Dr. Philip Wadler, working through Programming Language Foundations in Agda. In my third year I studied at the University of Pennsylvania. I gave a lecture on normalization by evaluation for System T.
 
 ## Selected Courses
 

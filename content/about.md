@@ -6,11 +6,13 @@ layout: "about"
 
 # About Me
 
-I'm a third-year undergraduate student at the University of Edinburgh. I love to make things and learn all things involving math.
+I just graduated with a First Class Honours from the University of Edinburgh.
+
+Theory underpins innovation, it balances nuance and rigour with wonder and beauty.
 
 ## Research Overview
 
-I have broad interests throughout algorithms, distributed systems and programming language theory. Throughout the summer of 2022 I interned with Dr. Philip Wadler, working through Programming Language Foundations in Agda. In my third year I studided at the University of Pennsylvania. I gave a lecture on normalization by evaluation for System T.
+I am quite interested in the intersection of Complexity Theory, Algorithmic Game Theory and Learning Theory.
 
 ## Selected Courses
 
@@ -25,13 +27,27 @@ I have broad interests throughout algorithms, distributed systems and programmin
 
 [EDINBURGH]
 
-- Introduction to Computer Systems
-- Proofs and Problem Solving
-- Several Variable Calc. and Diff Eq.
-- Foundations of Data Science
+- Introduction to Modern Cryptography (Public/Private Key, Digital Signatures, ZK Proofs, OWF)
+- Algorithmic Game Theory and Applications (Extensive/Normal form Games, Congestion/Potential Games, Mechanism Design, LP)
+- Machine Learning Theory
+- Algorithmic Foundations of Data Science (Clustering, Streaming, Sketching, Spectral Graph Theory)
+- Commutative Algebra
+- General Topology
+- Honours Algebra (Rings + Modules, Advanced Linear Algebra)
+- Honours Analysis (Real Analysis 2)
+
+[Oxford]
+
+- Algebraic Topology / Topology and Groups
+- Graph Theory
+- Probability, Measure and Martingales
+- Additive Combinatorics
+- Probabilistic Combinatorics
+- Complexity Theory
+- Automata Logic and Games
 
 ## Hobbies
 
-I love to read; play piano; make and listen to music listen to music and podcasts; go on long walks; and watch hockey (go Caps!) and basketball. See some of my favorite books, TV shows, and musicians here.
+Classical Piano mainly. I like making music as well. My next piano performance is *sometime in September* in *Sweden*. Find my music [here](https://soundcloud.com/hridaya-516569383).
 
-## Projects
+## Dissertations

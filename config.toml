@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "CS&AI @ The University of Edinburgh '24 || 🇸🇪 🇮🇳 🇺🇸"
+  homeSubtitle = " MFoCS @ Oxford || UoE '25 || CS Theory || Piano"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -150,13 +150,13 @@ disableHugoGeneratorInject = false
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  # [params.commento]
-  #   url = ""
+  [params.commento]
+    url = ""
 
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/img/Arnav.jpeg"
+    path     = "/img/Arnav.jpg"
     alt      = "Portrait"
     maxWidth = "250px"
 
@@ -184,10 +184,6 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.sv]
-    subtitle  = "Hej! Jag är Arnav Bhargava"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
