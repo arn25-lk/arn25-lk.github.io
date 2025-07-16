@@ -8,7 +8,9 @@ tags:
   - advice
 ---
 
-# On Advice
+# Meta-Advice
 
-The quality of advice can range from 
-- Who to take advice from
+- Different types of advice I have encountered?
+- What is quality advice?
+- Who to take advice from?
+- 
