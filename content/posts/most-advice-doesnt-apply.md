@@ -13,4 +13,3 @@ tags:
 - Different types of advice I have encountered?
 - What is quality advice?
 - Who to take advice from?
-- 

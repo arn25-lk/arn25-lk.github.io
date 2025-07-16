@@ -2,25 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arn25-lk.github.io/tags/advice/</loc>
-    <lastmod>2025-07-15T14:34:37+02:00</lastmod>
+    <loc>https://arn25-lk.github.io/about/</loc>
   </url><url>
     <loc>https://arn25-lk.github.io/</loc>
-    <lastmod>2025-07-15T14:34:37+02:00</lastmod>
-  </url><url>
-    <loc>https://arn25-lk.github.io/posts/2025/07/most-advice-doesnt-apply-to-you/</loc>
-    <lastmod>2025-07-15T14:34:37+02:00</lastmod>
-  </url><url>
-    <loc>https://arn25-lk.github.io/posts/</loc>
-    <lastmod>2025-07-15T14:34:37+02:00</lastmod>
-  </url><url>
-    <loc>https://arn25-lk.github.io/tags/</loc>
-    <lastmod>2025-07-15T14:34:37+02:00</lastmod>
-  </url><url>
-    <loc>https://arn25-lk.github.io/about/</loc>
   </url><url>
     <loc>https://arn25-lk.github.io/categories/</loc>
   </url><url>
     <loc>https://arn25-lk.github.io/series/</loc>
+  </url><url>
+    <loc>https://arn25-lk.github.io/tags/</loc>
   </url>
 </urlset>
