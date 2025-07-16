@@ -6,7 +6,7 @@ layout: "about"
 
 # About Me
 
-I just graduated with a First Class Honours from the University of Edinburgh. Vice-President of TypeSIG - the universities only CS theory-focused student society.
+I just graduated with a First Class Honours from the University of Edinburgh. I also served as the Vice-President of TypeSIG - the university's only CS theory-focused student society.
 
 Theory underpins innovation, it balances nuance and rigour with wonder and beauty.
 
