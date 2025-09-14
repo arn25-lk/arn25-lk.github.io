@@ -18,7 +18,7 @@ I am quite interested in the intersection of Complexity Theory, Algorithmic Game
 
 ## Selected Courses
 
-[PENN]
+__UPenn__
 
 - Advanced Programming (Haskell)
 - Operating Systems (C)
@@ -27,7 +27,7 @@ I am quite interested in the intersection of Complexity Theory, Algorithmic Game
 - Internet and Web Systems
 - Machine Learning
 
-[EDINBURGH]
+__Edinburgh__
 
 - Introduction to Modern Cryptography (Public/Private Key, Digital Signatures, ZK Proofs, OWF)
 - Algorithmic Game Theory and Applications (Extensive/Normal form Games, Congestion/Potential Games, Mechanism Design, LP)
@@ -38,7 +38,7 @@ I am quite interested in the intersection of Complexity Theory, Algorithmic Game
 - Honours Algebra (Rings + Modules, Advanced Linear Algebra)
 - Honours Analysis (Real Analysis 2)
 
-[Oxford]
+__Oxford__
 
 - Graph Theory
 - Combinatorics
