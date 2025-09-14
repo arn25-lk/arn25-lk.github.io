@@ -40,17 +40,16 @@ I am quite interested in the intersection of Complexity Theory, Algorithmic Game
 
 [Oxford]
 
-- Algebraic Topology / Topology and Groups
 - Graph Theory
-- Probability, Measure and Martingales
+- Combinatorics
 - Additive Combinatorics
 - Probabilistic Combinatorics
-- Complexity Theory
-- Automata Logic and Games
+- Computational Complexity
+- Geometric Deep Learning
 
 ## Hobbies
 
-Classical Piano mainly. I like making music as well. My next piano performance is *sometime in September* in *Sweden*. Find my music [here](https://soundcloud.com/hridaya-516569383).
+Classical Piano mainly. I like making music as well. My next piano performance is *sometime in September* in *Sweden*. 
 
 *John Anderssons i Anderslöv* piano stipendium recipient 2020.
 
