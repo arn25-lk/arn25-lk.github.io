@@ -18,14 +18,16 @@ I am quite interested in the intersection of Complexity Theory, Algorithmic Game
 
 ## Selected Courses
 
-__UPenn__
+__Oxford__
 
-- Advanced Programming (Haskell)
-- Operating Systems (C)
-- Advanced Topics in Algorithms
-- Advanced Topics in Programming Languages
-- Internet and Web Systems
-- Machine Learning
+- Combinatorial Optimization
+- Combinatorics
+- Algebraic Topology
+- Probabilistic Combinatorics
+- Computational Complexity
+- Additive Number Theory
+- Applied Category Theory
+- Quantum Processes and Computation
 
 __Edinburgh__
 
@@ -39,16 +41,14 @@ __Edinburgh__
 - Honours Algebra (Rings + Modules, Advanced Linear Algebra)
 - Honours Analysis (Real Analysis 2)
 
-__Oxford__
+__UPenn__
 
-- Combinatorial Optimization
-- Combinatorics
-- Algebraic Topology
-- Probabilistic Combinatorics
-- Computational Complexity
-- Additive Number Theory
-- Applied Category Theory
-- Quantum Processes and Computation
+- Advanced Programming (Haskell)
+- Operating Systems (C)
+- Advanced Topics in Algorithms
+- Advanced Topics in Programming Languages
+- Internet and Web Systems
+- Machine Learning
 
 ## Hobbies
 
