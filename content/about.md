@@ -40,12 +40,12 @@ __Edinburgh__
 
 __Oxford__
 
-- Graph Theory
+- Combinatorial Optimization
 - Combinatorics
-- Additive Combinatorics
+- Algebraic Topology
 - Probabilistic Combinatorics
 - Computational Complexity
-- Geometric Deep Learning
+- Additive Number Theory
 
 ## Hobbies
 
@@ -53,4 +53,4 @@ Classical Piano mainly. I like making music as well. My next piano performance i
 
 *John Anderssons i Anderslöv* piano stipendium recipient 2020.
 
-## Dissertations
+## Writings
