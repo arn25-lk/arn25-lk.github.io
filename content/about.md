@@ -29,6 +29,7 @@ __UPenn__
 
 __Edinburgh__
 
+- Introduction to Quantum Computing (circuit- and measurement-based quantum computing, quantum algorithms algorithms—including teleportation, phase estimation, Grover’s search, and Shor’s algorithm—and advanced topics such as error correction, near-term architectures, and secure quantum cloud computing,  implementation using PennyLane)
 - Introduction to Modern Cryptography (Public/Private Key, Digital Signatures, ZK Proofs, OWF)
 - Algorithmic Game Theory and Applications (Extensive/Normal form Games, Congestion/Potential Games, Mechanism Design, LP)
 - Machine Learning Theory
@@ -46,6 +47,8 @@ __Oxford__
 - Probabilistic Combinatorics
 - Computational Complexity
 - Additive Number Theory
+- Applied Category Theory
+- Quantum Processes and Computation
 
 ## Hobbies
 

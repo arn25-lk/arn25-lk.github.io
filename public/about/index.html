@@ -38,7 +38,7 @@
 <meta itemprop="name" content="About">
 <meta itemprop="description" content="Making the Complex Simple and Easy to Understand!">
 
-<meta itemprop="wordCount" content="245"><meta itemprop="image" content="https://arn25-lk.github.io"/>
+<meta itemprop="wordCount" content="274"><meta itemprop="image" content="https://arn25-lk.github.io"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://arn25-lk.github.io"/>
@@ -244,7 +244,7 @@
 <h2 id="research-overview">Research Overview</h2>
 <p>I am quite interested in the intersection of Complexity Theory, Algorithmic Game Theory and Learning Theory.</p>
 <h2 id="selected-courses">Selected Courses</h2>
-<p>[PENN]</p>
+<p><strong>UPenn</strong></p>
 <ul>
 <li>Advanced Programming (Haskell)</li>
 <li>Operating Systems (C)</li>
@@ -253,8 +253,9 @@
 <li>Internet and Web Systems</li>
 <li>Machine Learning</li>
 </ul>
-<p>[EDINBURGH]</p>
+<p><strong>Edinburgh</strong></p>
 <ul>
+<li>Introduction to Quantum Computing (circuit- and measurement-based quantum computing, quantum algorithms algorithms—including teleportation, phase estimation, Grover’s search, and Shor’s algorithm—and advanced topics such as error correction, near-term architectures, and secure quantum cloud computing,  implementation using PennyLane)</li>
 <li>Introduction to Modern Cryptography (Public/Private Key, Digital Signatures, ZK Proofs, OWF)</li>
 <li>Algorithmic Game Theory and Applications (Extensive/Normal form Games, Congestion/Potential Games, Mechanism Design, LP)</li>
 <li>Machine Learning Theory</li>
@@ -264,20 +265,21 @@
 <li>Honours Algebra (Rings + Modules, Advanced Linear Algebra)</li>
 <li>Honours Analysis (Real Analysis 2)</li>
 </ul>
-<p>[Oxford]</p>
+<p><strong>Oxford</strong></p>
 <ul>
-<li>Algebraic Topology / Topology and Groups</li>
-<li>Graph Theory</li>
-<li>Probability, Measure and Martingales</li>
-<li>Additive Combinatorics</li>
+<li>Combinatorial Optimization</li>
+<li>Combinatorics</li>
+<li>Algebraic Topology</li>
 <li>Probabilistic Combinatorics</li>
-<li>Complexity Theory</li>
-<li>Automata Logic and Games</li>
+<li>Computational Complexity</li>
+<li>Additive Number Theory</li>
+<li>Applied Category Theory</li>
+<li>Quantum Processes and Computation</li>
 </ul>
 <h2 id="hobbies">Hobbies</h2>
-<p>Classical Piano mainly. I like making music as well. My next piano performance is <em>sometime in September</em> in <em>Sweden</em>. Find my music <a href="https://soundcloud.com/hridaya-516569383">here</a>.</p>
+<p>Classical Piano mainly. I like making music as well. My next piano performance is <em>sometime in September</em> in <em>Sweden</em>.</p>
 <p><em>John Anderssons i Anderslöv</em> piano stipendium recipient 2020.</p>
-<h2 id="dissertations">Dissertations</h2>
+<h2 id="writings">Writings</h2>
 
             <style>
             .dropdown-container {
@@ -307,11 +309,59 @@
             details[open] summary::after {
                 content: " ▲";
             }
+
+            .pdf-viewer {
+                margin-top: 16px;
+                border-top: 1px solid #ccc;
+                padding-top: 12px;
+            }
+
+            .pdf-viewer summary {
+                display: inline-block;
+                padding: 8px 12px;
+                border: 1px solid #70777b;
+                border-radius: 6px;
+            }
+
+            .pdf-viewer__actions {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 8px;
+                margin: 12px 0;
+            }
+
+            .pdf-viewer__actions a {
+                padding: 6px 10px;
+                border: 1px solid #70777b;
+                border-radius: 6px;
+                text-decoration: none;
+            }
+
+            .pdf-viewer iframe {
+                display: block;
+                width: 100%;
+                height: min(75vh, 900px);
+                min-height: 600px;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                background: #fff;
+            }
+
+            @media only screen and (max-width: 850px) {
+                .homepage-content {
+                    margin-left: 5% !important;
+                    margin-right: 5% !important;
+                }
+
+                .pdf-viewer iframe {
+                    height: 70vh;
+                    min-height: 420px;
+                }
+            }
             </style>
 
             <div class="dropdown-container">
             <details>
-                <br>
                 <summary>“Towards Better Approximation Algorithms for α-EFX Allocations” Supervised by Aris Filos-Ratsikas</summary>
                 <ul>
                 <li><strong>Exploration of the “Top-N” Case:</strong> Provided strong evidence that the Top-N instance class — where agents value only their top few goods — cannot be handled organically by the existing 3PA algorithm (Amanatidis, Filos-Ratsikas, Sgouritsa, 2024), countering an existing conjecture.</li>
@@ -319,6 +369,65 @@
                 <li><strong>Use of Extremal Graph Theory (Group Champion Graphs):</strong> Suggested ways of analyzing EFX allocations using multigraphs and structural properties, inspired by work on EFX-with-charity. This adds a fresh analytical lens to the problem.</li>
                 <li><strong>Empirical experiments on 3PA:</strong> Tested 3PA's running time and step execution frequency. Evaluated allocation properties under different valuation distributions. Analyzed graph-theoretic properties of allocations, including structure of “enhanced envy graphs” and critical goods.</li>
                 </ul>
+
+                
+                <details class="pdf-viewer">
+                    <summary>Read the dissertation</summary>
+                    <div class="pdf-viewer__actions">
+                        <a href="https://arn25-lk.github.io/pdfs/dissertation.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a>
+                        <a href="https://arn25-lk.github.io/pdfs/dissertation.pdf" download>Download PDF</a>
+                    </div>
+                    <iframe
+                        src="https://arn25-lk.github.io/pdfs/dissertation.pdf#view=FitH"
+                        title="Towards Better Approximation Algorithms for alpha-EFX Allocations dissertation"
+                        loading="lazy">
+                    </iframe>
+                    <p>If the viewer does not load, <a href="https://arn25-lk.github.io/pdfs/dissertation.pdf" target="_blank" rel="noopener">open the PDF directly</a>.</p>
+                </details>
+            </details>
+            </div>
+
+            <div class="dropdown-container">
+            <details>
+                <summary>Algebraic Topology Project</summary>
+                <p>Written project on configuration spaces and preliminaries of low-dimensional topology and Braid groups for the Part C Algebraic Topology course (Scored 87).</p>
+
+                
+                <details class="pdf-viewer">
+                    <summary>Read the project</summary>
+                    <div class="pdf-viewer__actions">
+                        <a href="https://arn25-lk.github.io/pdfs/algebraic-topology-project.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a>
+                        <a href="https://arn25-lk.github.io/pdfs/algebraic-topology-project.pdf" download>Download PDF</a>
+                    </div>
+                    <iframe
+                        src="https://arn25-lk.github.io/pdfs/algebraic-topology-project.pdf#view=FitH"
+                        title="Algebraic Topology Project"
+                        loading="lazy">
+                    </iframe>
+                    <p>If the viewer does not load, <a href="https://arn25-lk.github.io/pdfs/algebraic-topology-project.pdf" target="_blank" rel="noopener">open the PDF directly</a>.</p>
+                </details>
+            </details>
+            </div>
+
+            <div class="dropdown-container">
+            <details>
+                <summary>Getting Started with Boolean Function Complexity</summary>
+                <p>Notes on preliminaries of Boolean function complexity, circuits and graph complexity based on Boolean Function Complexity by Stasys Jukna.</p>
+
+                
+                <details class="pdf-viewer">
+                    <summary>Read the notes</summary>
+                    <div class="pdf-viewer__actions">
+                        <a href="https://arn25-lk.github.io/pdfs/boolean-function-complexity-jukna.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a>
+                        <a href="https://arn25-lk.github.io/pdfs/boolean-function-complexity-jukna.pdf" download>Download PDF</a>
+                    </div>
+                    <iframe
+                        src="https://arn25-lk.github.io/pdfs/boolean-function-complexity-jukna.pdf#view=FitH"
+                        title="Getting Started with Boolean Function Complexity by Jukna"
+                        loading="lazy">
+                    </iframe>
+                    <p>If the viewer does not load, <a href="https://arn25-lk.github.io/pdfs/boolean-function-complexity-jukna.pdf" target="_blank" rel="noopener">open the PDF directly</a>.</p>
+                </details>
             </details>
             </div>
 
@@ -469,7 +578,7 @@
     
     <div class="footer__inner">
         <div class="footer__content">
-            <span>&copy; 2025</span>
+            <span>&copy; 2026</span>
             <span><a href="https://arn25-lk.github.io">Arnav Bhargava</a></span>
             
             <span><a href="https://arn25-lk.github.io/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
